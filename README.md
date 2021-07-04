@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Konidala Venkata Avinash Babu
+- 👋 Hi, I’m ... Konidala Venkata Avinash Babu
 - 👀 I’m interested in ... Full Stack development
 - 🌱 I’m currently learning ... HTML & CSS
 - 💞️ I’m looking to collaborate on ...
